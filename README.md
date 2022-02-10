@@ -9,3 +9,8 @@ git config --global user.email "test@test.com"
 git add README.md 
 git commit -m "init repo git"
 ```
+
+
+```bash
+git status
+```
