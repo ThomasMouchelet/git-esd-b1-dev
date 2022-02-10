@@ -22,11 +22,14 @@ git log --oneline
 
 ```bash
 git branch
-git branch nameNewBranch
-git checkout nameNewBranch
-git checkout -b nameNewBranch
-git branch -d nameNewBranch
+git branch <name>
+git checkout <name>
+git checkout -b <name>
+git branch -d <name>
 ```
 
+```bash
+git checkout -b <name> <id commit>
+```
 
 # ERROR TITLE
